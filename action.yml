@@ -1,0 +1,9 @@
+name: 'ansible-syntax-check-action'
+description: 'Performs an Ansible syntax-check of your roles/playbooks'
+author: 'Pablo Hinojosa Nava <pablohn6@gmail.com>'
+
+branding:
+  icon: check-circle
+  color: gray-dark
+
+
